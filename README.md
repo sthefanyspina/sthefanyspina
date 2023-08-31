@@ -1,9 +1,11 @@
-Hello! Welcome to my Github profile.
+<div>
+  <h1>Hello! Welcome to my Github profile.</h1>
 
-Hello, my name is Sthefany, I'm a student of Analysis and and Systems Development in Centro Universitário Unifatecie, currently i'm focused on developing my skills in programming.
+<h3>Hello, my name is Sthefany, I'm a student of Analysis and and Systems Development in Centro Universitário Unifatecie, currently i'm focused on developing my skills in programming.</h3>
 
 - 🔭 Stats:
 <div>
+  <a href="https://github.com/sthefanyspina">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/sthefanyspinaanuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisthefanyspinaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
@@ -22,4 +24,4 @@ Hello, my name is Sthefany, I'm a student of Analysis and and Systems Developmen
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 
-![Snake animation](https://github.com/seu-usuário-aqui/sthefanyspina/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sthefanyspina/sthefanyspina/blob/output/github-contribution-grid-snake.svg)
