@@ -6,8 +6,8 @@
 - 🔭 Stats:
 <div>
   <a href="https://github.com/sthefanyspina">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/sthefanyspinaanuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisthefanyspinaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sthefanyspina&anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sthefanyspina&anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 - 💬 Contacts:
