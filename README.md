@@ -6,8 +6,8 @@
 - 🔭 Stats:
 <div>
   <a href="https://github.com/sthefanyspina">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sthefanyspina&anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sthefanyspina&anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?sthefanyspina-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 - 💬 Contacts:
@@ -17,24 +17,22 @@
 </div>
 
 - ⚡ Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 
 ![Snake animation](https://github.com/sthefanyspina/sthefanyspina/blob/output/github-contribution-grid-snake.svg)
