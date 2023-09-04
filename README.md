@@ -7,10 +7,8 @@
 ### Hello, my name is Sthefany, I'm a student of Analysis and and Systems Development in Centro Universitário Unifatecie, currently i'm focused on developing my skills in programming.
 
 ### 🔭 Stats:
-  <div align="center">
   |![](https://github-readme-stats.vercel.app/api?username=sthefanyspina&theme=react&show_icons=true&hide_border=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&theme=react)|
   |---|---|
-  </div>
 <br> 
   
 ### 💬 Contacts:
@@ -41,4 +39,4 @@
 
 <br/>
 
-![Snake animation](https://github.com/sthefanyspina/sthefanyspina/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
