@@ -8,7 +8,7 @@
 
 ### 🔭 Stats:
 <div>
-  |![]([http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=moltack](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&langs_count=7&theme=react))|![]([http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3](https://github-readme-stats.vercel.app/api?username=sthefanyspina&theme=moltack&show_icons=true&hide_border=true&count_private=true))|
+  |![](https://github-readme-stats.vercel.app/api?username=sthefanyspina&theme=moltack&show_icons=true&hide_border=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?sthefanyspina=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
   </div>
 <br> 
