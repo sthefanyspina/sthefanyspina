@@ -2,17 +2,15 @@
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
 </p>
 
-<div>
-  <h1>Hello! Welcome to my Github profile.</h1>
+### Hello! Welcome to my Github profile.
 
-<h3>Hello, my name is Sthefany, I'm a student of Analysis and and Systems Development in Centro Universitário Unifatecie, currently i'm focused on developing my skills in programming.</h3>
+### Hello, my name is Sthefany, I'm a student of Analysis and and Systems Development in Centro Universitário Unifatecie, currently i'm focused on developing my skills in programming.
 
-- 🔭 Stats:
+### 🔭 Stats:
 <div>
   <a href="https://github.com/sthefanyspina">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&langs_count=7&theme=react"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?sthefanyspina-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" https://github-readme-stats.vercel.app/api?sthefanyspina=anuraghazra&theme=react_icons=true
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sthefanyspina&theme=moltack&show_icons=true&hide_border=true&count_private=true"/>
 </div>
   
 - 💬 Contacts:
