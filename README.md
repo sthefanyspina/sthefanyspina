@@ -5,17 +5,17 @@
 ### Hello! Welcome to my Github profile.
 
 ### Hello, my name is Sthefany, I'm a student of Analysis and and Systems Development in Centro Universitário Unifatecie, currently i'm focused on developing my skills in programming.
-
-### 🔭 Stats:
-  |![](https://github-readme-stats.vercel.app/api?username=sthefanyspina&theme=react&show_icons=true&hide_border=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&theme=react)|
-  |---|---|
-<br> 
   
 ### 💬 Contacts:
 <div align="center" >
 <a href="https://www.linkedin.com/in/sthefany-spina-02bb11202" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "mailto:sthefanyspina@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+### 🔭 Stats:
+  |![](https://github-readme-stats.vercel.app/api?username=sthefanyspina&theme=react&show_icons=true&hide_border=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&theme=react)|
+  |---|---|
+<br> 
 
 ### ⚡ Skills:
 <div align="center">
