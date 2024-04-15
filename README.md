@@ -1,4 +1,4 @@
-<h1> Hello! Welcome to my Github profile. </h1>
+<h1 align="center"> Hello! Welcome to my Github profile. </h1>
 
 <p align="right">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
