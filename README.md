@@ -42,6 +42,6 @@
 
 ### 🔭 Stats:
 <div align="center">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=sthefanyspina&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=sthefanyspina&layout=compact&theme=react&rank_icon=github"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&theme=react"/></p>
 </div>
