@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! Welcome to my Github profile. </h1>
 
 <p align="right">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat&layout=compact&theme=react" /></a>
 </p>
 
 
@@ -20,7 +20,7 @@
 
 ### ⚡ Skills:
 <div align="center">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg&layout=compact&theme=react" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
