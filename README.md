@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">A passionate machine learning engineer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="center"><img src="https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966" width="400" height="300"  /></p>
 
