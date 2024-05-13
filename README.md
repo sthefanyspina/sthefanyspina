@@ -1,3 +1,6 @@
+
+<p align="center"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
+
 <h1 align="center"> Hello! Welcome to my Github profile. </h1>
 
 <p align="right">
