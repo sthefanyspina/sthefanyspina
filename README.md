@@ -1,6 +1,4 @@
 
-<p align="center"><img src="src/resources/images/nickgabe.png" width="600"/></p>
-
 <h1 align="center"> Hello! Welcome to my Github profile. </h1>
 
 <p align="right">
