@@ -39,6 +39,7 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ### 🔭 Stats:
+<div align="center">
   |![](https://github-readme-stats.vercel.app/api?username=sthefanyspina&theme=react&show_icons=true&hide_border=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&theme=react)|
   |---|---|
 <br> 
