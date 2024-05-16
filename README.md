@@ -13,8 +13,8 @@ Currently i'm focused on developing my skills in programming and lerning more ab
   
 ### 💬 Contacts:
 <div align="center" >
-<a href="https://www.linkedin.com/in/sthefany-spina-02bb11202" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href = "mailto:sthefanyspina@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sthefany-spina-02bb11202" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=5AB2FF" target="_blank"></a>  
+<a href = "mailto:sthefanyspina@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=5AB2FF" target="_blank"></a>
 </div>
 
 ### ⚡ Skills:
