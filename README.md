@@ -45,6 +45,6 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 
 ### 🔭 Stats:
 <div align="center">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=sthefanyspina&layout=compact&theme=react&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&layout=compact&theme=react"/></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=sthefanyspina&style=for-the-badge&title_color=F73C7B&text_color=FFF9D0&bg_color=5AB2FF&border_color=121111&show_icons=true&icon_color=FFF9D0&rank_icon=github"/>/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyspina&style=for-the-badge&title_color=F73C7B&text_color=FFF9D0&bg_color=5AB2FF&border_color=121111&show_icons=true&icon_color=FFF9D0&rank_icon=github"/></p>
 </div>
