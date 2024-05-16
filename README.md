@@ -6,7 +6,10 @@
 
 <p align="center"><img src="https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966" width="400" height="300"  /></p>
 
-### Hello, my name is Sthefany, I'm a student of Analysis and and Systems Development, currently i'm focused on developing my skills in programming and lerning more about Data Science, Generative AI, Probabilistic Machine Learning.
+### About Me
+Hello, my name is Sthefany!
+I'm a student of Analysis and and Systems Development;
+Currently i'm focused on developing my skills in programming and lerning more about Data Science, Generative AI, Probabilistic Machine Learning.
   
 ### 💬 Contacts:
 <div align="center" >
