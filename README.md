@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina&label=Profile%20Views&labelColor=%23ffe4c8&layout=compact&theme=react" /></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsthefanyspina&style=for-the-badge&color=FFF9D0&logoColor=5AB2FF&logo=undefined"/></a>
 </p>
 
 <p align="center"><img src="https://github.com/sthefanyspina/sthefanyspina/blob/main/src/Picsart_24-05-15_14-48-19-560.png" width="600"/></p>
