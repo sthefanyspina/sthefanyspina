@@ -4,8 +4,6 @@
 
 <p align="center"><img src="https://github.com/sthefanyspina/sthefanyspina/blob/main/src/Picsart_24-05-15_14-48-19-560.png" width="600" /></p>
 
-<p align="center"><img src= "https://github.com/sthefanyspina/sthefanyspina/blob/main/src/OIG2%20(3).jpeg" width="400" height="300"  /></p>
-
 ### About Me
 <p>Hello, my name is Sthefany! </br>
 I'm a student of Analysis and and Systems Development; </br>
