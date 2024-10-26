@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/sthefanyspina/sthefanyspina/blob/main/src/Picsart_24-05-15_14-48-19-560.png" width="600" /></p>
 
-<p align="center"><img src="https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966" width="400" height="300"  /></p>
+<p align="center"><img src="[https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966](https://github.com/sthefanyspina/sthefanyspina/blob/main/src/OIG2%20(3).jpeg)" width="400" height="300"  /></p>
 
 ### About Me
 <p>Hello, my name is Sthefany! </br>
@@ -15,7 +15,7 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 <div align="center" >
 <a href="https://www.linkedin.com/in/sthefany-spina-02bb11202" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-5AB2FF?style=for-the-badge&logoColor=FFF9D0&logo=linkedin"/></a> 
 <a href = "mailto:sthefanyspina@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-5AB2FF?style=for-the-badge&logo=gmail&logoColor=FFF9D0" target="_blank"></a>
-<a href="https://x.com/SSDataEng?t=K2PzUwo6HvP1jkxiXcIfyA&s=09/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/twitter-5AB2FF?style=for-the-badge&logoColor=FFF9D0&logo=twitter"/> /></a>
+<a href="https://x.com/SSDataEng?t=K2PzUwo6HvP1jkxiXcIfyA&s=09/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/twitter-5AB2FF?style=for-the-badge&logoColor=FFF9D0&logo=twitter"/> </a>
 </div>
 
 ### ⚡ Skills:
