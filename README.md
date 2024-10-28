@@ -6,8 +6,9 @@
 
 ### About Me
 <p>Hello, my name is Sthefany! </br>
-I'm a student of Analysis and and Systems Development; </br>
-Currently i'm focused on developing my skills in programming and lerning more about Data Science, Generative AI, Probabilistic and Machine Learning.<p/>
+I'm a passionate data engineer and tech enthusiast; </br>
+Currently i'm focused on developing my skills in programming and lerning more about Data Science, Statistics and Machine Learning.<p/>
+
   
 ### 💬 Contacts:
 <div align="center" >
