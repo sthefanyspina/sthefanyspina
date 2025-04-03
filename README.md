@@ -31,10 +31,10 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 
 <h4>Frameworks:</h4>
 <div align="center" >
-<a href="" target="_blank"><img loading="lazy" src=https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+  <a href="" target="_blank"><img loading="lazy" src=https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
 </div>
 
 <h4>Database:</h4>
