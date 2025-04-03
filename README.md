@@ -47,10 +47,17 @@ Currently i'm focused on developing my skills in programming and lerning more ab
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"</a> 
 </div>
 
+<h4>ETL/ELT TOOLS:</h4>
+<div align="center" >
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"</a> 
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white"</a>
+</div>
+
 <h4>Analytical Reporting:</h4>
 <div align="center" >
   <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"</a> 
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"</a>
 </div>
 
 <h4>Cloud:</h4>
