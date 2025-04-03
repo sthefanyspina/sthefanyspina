@@ -20,8 +20,8 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 </div>
 
 ### 💻 Tech Stack
-<div align="center" >
 <h4>Languages:</h4>
+<div align="center" >
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
@@ -29,16 +29,16 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
 </div>
 
-<div align="center" >
 <h4>Frameworks:</h4>
+<div align="center" >
 <a href="" target="_blank"><img loading="lazy" src=https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
 </div>
 
-<div align="center" >
 <h4>Database:</h4>
+<div align="center" >
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"
@@ -47,29 +47,29 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"
 </div>
 
-<div align="center" >
 <h4>Analytical Reporting:</h4>
+<div align="center" >
 <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"
 <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"
 </div>
 
-<div align="center" >
 <h4>Cloud:</h4>
+<div align="center" >
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
 </div>
 
-<div align="center" >
 <h4>Version Control and CI / CD:</h4>
+  <div align="center" >
 <a href="" target="_blank"><img loading="lazy" src="GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
 </div>
 
-<div align="center" >
 <h4>Developer Tools:</h4>
+<div align="center" >
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black"
 </div>
