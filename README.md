@@ -22,11 +22,11 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 ### 💻 Tech Stack
 <h4>Languages:</h4>
 <div align="center" >
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
 </div>
 
 <h4>Frameworks:</h4>
