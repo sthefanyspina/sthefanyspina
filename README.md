@@ -70,10 +70,12 @@ Currently i'm focused on developing my skills in programming and lerning more ab
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge</a>
 </div>
 
-Big Data Tools
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black"</a>
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=for-the-badge</a>
-<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge</a>
+<h4>Big Data Tools</h4>
+<div align="center" >
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black"</a>
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=for-the-badge</a>
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge</a>
+</div>
 
 <h4>Cloud:</h4>
 <div align="center" >
