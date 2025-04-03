@@ -47,10 +47,19 @@ Currently i'm focused on developing my skills in programming and lerning more ab
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"</a> 
 </div>
 
+<h4>Data Warrehousing:</h4>
+<div align="center" >
+    ![Snowflake Badge](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff&style=for-the-badge)
+  ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=for-the-badge)
+  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=fff&style=for-the-badge"</a>
+</div>
+
 <h4>ETL/ELT TOOLS:</h4>
 <div align="center" >
+  ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge)
+  ![dbt Badge](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff&style=for-the-badge)
+  ![Google Dataflow Badge](https://img.shields.io/badge/Google%20Dataflow-AECBFA?logo=googledataflow&logoColor=000&style=for-the-badge)
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"</a> 
-  <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black"</a>
 </div>
 
 <h4>Analytical Reporting:</h4>
@@ -58,7 +67,13 @@ Currently i'm focused on developing my skills in programming and lerning more ab
   <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"</a>
+    ![Looker Badge](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge)
 </div>
+
+Big Data Tools
+<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black"</a>
+![Apache Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=for-the-badge)
+![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge)
 
 <h4>Cloud:</h4>
 <div align="center" >
