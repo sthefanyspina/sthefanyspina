@@ -15,7 +15,7 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 <a href="https://www.linkedin.com/in/sthefany-spina-02bb11202" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-5AB2FF?style=for-the-badge&logoColor=FFF9D0&logo=linkedin"/></a> 
 <a href = "mailto:sthefanyspina@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-5AB2FF?style=for-the-badge&logo=gmail&logoColor=FFF9D0" target="_blank"></a>
 <a href="https://x.com/SSDataEng?t=K2PzUwo6HvP1jkxiXcIfyA&s=09/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/X-5AB2FF?style=for-the-badge&logoColor=FFF9D0&logo=x" </a>
-<a href="https://sthefanys-tech.vercel.app/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=FFF9D0&logo=x" </a>
+<a href="https://sthefanys-tech.vercel.app/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" </a>
 <a href="https://dev.to/sthefanyspina" target="blank"><img loading="lazy" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" </a>
 </div>
 
