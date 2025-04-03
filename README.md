@@ -63,8 +63,8 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 
 <h4>Version Control and CI / CD:</h4>
   <div align="center" >
-    <a href="" target="_blank"><img loading="lazy" src="GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"</a> 
-    <a href="" target="_blank"><img loading="lazy" src="GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"</a> 
+    <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"</a> 
+    <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"</a> 
     <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"</a> 
 </div>
 
