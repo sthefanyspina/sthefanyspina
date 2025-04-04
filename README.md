@@ -30,7 +30,7 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 </div>
 
 <h4>Frameworks:</h4>
-<div align="center" >
+<div>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"</a> 
@@ -38,7 +38,7 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 </div>
 
 <h4>Database:</h4>
-<div align="center" >
+<div>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"</a> 
@@ -48,14 +48,14 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 </div>
 
 <h4>Data Warrehousing:</h4>
-<div align="center" >
+<div>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff&style=for-the-badge"</a>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=for-the-badge"</a>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=fff&style=for-the-badge"</a>
 </div>
 
 <h4>ETL/ELT TOOLS:</h4>
-<div align="center" >
+<div>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge"</a>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff&style=for-the-badge"</a>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Google%20Dataflow-AECBFA?logo=googledataflow&logoColor=000&style=for-the-badge"</a>
@@ -63,7 +63,7 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 </div>
 
 <h4>Analytical Reporting:</h4>
-<div align="center" >
+<div>
   <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"</a>
@@ -71,14 +71,14 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 </div>
 
 <h4>Big Data Tools</h4>
-<div align="center" >
+<div>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black"</a>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=for-the-badge"</a>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge"</a>
 </div>
 
 <h4>Cloud:</h4>
-<div align="center" >
+<div>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8"</a> 
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"</a> 
@@ -86,14 +86,14 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 </div>
 
 <h4>Version Control and CI / CD:</h4>
-  <div align="center" >
+  <div>
     <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"</a> 
     <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"</a> 
     <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"</a> 
 </div>
 
 <h4>Developer Tools:</h4>
-<div align="center" >
+<div>
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"</a> 
 <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black"</a> 
 </div>
