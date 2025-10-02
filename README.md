@@ -6,7 +6,7 @@
 
 ### About Me
 <p>Hello, my name is Sthefany! </br>
-I'm graduated in Software Analysis and Development where acquired fundamental skills in the field of software development, postgraduate degree in Data Engineering and Machine Learning, with a strong base in Big Data and Machine Learning. I’m currently a postgraduate student in Data Analysis, with foundation in Data Analytics and Business Intelligence (BI). 
+I'm graduated in Software Analysis and Development where acquired fundamental skills in the field of software development, postgraduate degree in Data Engineering and Machine Learning, with a strong base in Big Data and Machine Learning. I’m currently a postgraduate student in Data Analysis, with foundation in Data Analytics and Business Intelligence (BI).</br> 
 I'm a passionate data engineer and tech enthusiast; </br>
 Currently i'm focused on developing my skills in programming and lerning more about Data Engineering, Statistics and Machine Learning.<p/>
 
