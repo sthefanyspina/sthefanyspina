@@ -65,7 +65,7 @@ Currently i'm focused on developing my skills in programming and lerning more ab
 <h4>Data Warehouse:</h4>
 <div>
     <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Google Bard-886FBF?style=flat&logo=googlebard&logoColor=white"</a>
-    <<a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Amazon Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white"</a>
+    <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Amazon Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white"</a>
     <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)"</a>
 </div>
 
